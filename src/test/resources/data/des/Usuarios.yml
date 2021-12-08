@@ -1,0 +1,9 @@
+---
+usuario:
+  name: "Nola Bergnaum"
+  user: "nola.bergnaum@gft.com"
+  pass: "1234"
+produtos:
+  Total products: "$27.00"
+  Total shipping: "$2.00"
+  TOTAL: "$29.00"
